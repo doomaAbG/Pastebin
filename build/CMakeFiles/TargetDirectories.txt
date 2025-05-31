@@ -1,0 +1,3 @@
+C:/Pastebin/build/CMakeFiles/pastebin.dir
+C:/Pastebin/build/CMakeFiles/ALL_BUILD.dir
+C:/Pastebin/build/CMakeFiles/ZERO_CHECK.dir
