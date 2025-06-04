@@ -35,16 +35,6 @@ vcpkg — управление зависимостями
 Установите зависимости:
 
 Убедитесь, что установлен vcpkg и PostgreSQL.
-git clone https://github.com/твой-юзер/pastebin-cpp.git
-cd pastebin-cpp
-./vcpkg install crow boost asio libpqxx
-В PostgreSQL создайте таблицу:
-CREATE TABLE messages (
-  id SERIAL PRIMARY KEY,
-  timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  message TEXT NOT NULL
-);
-
 Это как локальный сайт который вы запустите на компе вот ссылка - http://localhost:18080
 
 📚 Структура проекта
